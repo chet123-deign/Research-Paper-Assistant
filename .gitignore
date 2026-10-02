@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Vector databases
+chroma/
+chroma_db/
+vector_db/
+faiss_index/
+
+# Uploaded papers
+uploads/
+papers/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
